@@ -662,8 +662,6 @@ const BottomNav = () => (
           <a href="#packages" className="bottom-nav-link">What We Offer</a>
           <a href="#process" className="bottom-nav-link">How It Works</a>
           <a href="#portfolio" className="bottom-nav-link">Our Work</a>
-          <a href="#why-us" className="bottom-nav-link">Why Us</a>
-          <a href="#faq" className="bottom-nav-link">FAQ</a>
           <a href="#contact" className="bottom-nav-link">Contact</a>
           <a href="https://x.com/KoradeAmay" target="_blank" rel="noopener noreferrer" className="bottom-nav-link social-link">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" className="inline-block mr-1">
