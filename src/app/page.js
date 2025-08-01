@@ -61,7 +61,7 @@ const HeroSection = () => (
     <div className="container">
       <div className="hero-content">
         <div className="relaunch-offer">
-          <span className="offer-badge">🔥 Relaunch Offer - Only 4 MVP spots at $3900</span>
+          <span className="offer-badge">🔥 Relaunch Offer - Only 4 MVP spots at $2500</span>
         </div>
         <h1>Launch your <span className="highlight">SaaS dream</span> in just 15 days</h1>
         <p>From idea to MVP, we build fast, scalable and smart products so you can focus on growth</p>
@@ -87,7 +87,7 @@ const WhatWeOfferSection = () => (
         <div className="package-card fade-in">
           <div className="package-header">
             <div className="package-badge">🔹 MVP in 15 Days</div>
-            <div className="package-price">$3,900</div>
+            <div className="package-price">$2,500</div>
           </div>
           <p className="package-description">
             Perfect for early-stage founders who want to validate their idea quickly with a working product.
@@ -118,7 +118,7 @@ const WhatWeOfferSection = () => (
             </div>
             <div className="detail-item">
               <span className="detail-label">Fixed Price:</span>
-              <span className="detail-value">$3,900</span>
+              <span className="detail-value">$2,500</span>
             </div>
           </div>
           
